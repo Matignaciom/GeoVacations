@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoVacations</string>
+    <!-- Agrega la siguiente línea para la etiqueta de MapActivity -->
+    <string name="map_activity_label">Map Activity</string>
+</resources>
